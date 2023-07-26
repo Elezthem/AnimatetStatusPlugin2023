@@ -1,0 +1,2 @@
+# AnimatetStatusPlugin2023
+Install BetterDiscord
